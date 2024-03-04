@@ -93,7 +93,7 @@ Stuff:#fff
             			to right,
             			#54b3d6,
             			#54b3d6 50%,
-            			#fff 50%
+            			#121212 50%
           			);
           			background-size: 200% 100%;
           			background-position: -100%;
@@ -287,7 +287,7 @@ Stuff:#fff
             to right,
             #54b3d6,
             #54b3d6 50%,
-            #fff 50%
+            #121212 50%
           );
           background-size: 200% 100%;
           background-position: -100%;
@@ -345,7 +345,7 @@ Stuff:#fff
         }
 
         nav a {
-            color: #ffffff;
+            color: #121212;
             text-decoration: none;
             padding: 10px 20px;
             margin: 0 10px;
@@ -366,7 +366,7 @@ Stuff:#fff
         }
 
        h2 {
-            color: white;
+            color: #121212;
         }
 
         p {
@@ -376,7 +376,7 @@ Stuff:#fff
 
         footer {
             padding: 20px;
-            background-color: #333;
+            background-color: #/*footer, this is the css for the copyright this is a website part*/;
         }
         * {box-sizing:border-box}
 
