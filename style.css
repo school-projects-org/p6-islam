@@ -323,7 +323,7 @@ Stuff:#fff
 
 
         body {
-            background-color: #dfdbc7;
+            background-color: #fff;
             color: #fff;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             margin: 5;
@@ -358,7 +358,7 @@ Stuff:#fff
 
         section {
             padding: 50px;
-            background-color: black;
+            background-color: #dfdbc7;
         }
 
         h1 {
