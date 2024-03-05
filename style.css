@@ -91,8 +91,8 @@ Stuff:#fff
                 	a {
           			background-image: linear-gradient(
             			to right,
-            			#54b3d6,
-            			#54b3d6 50%,
+            			#242424,
+            			#242424 50%,
             			#121212 50%
           			);
           			background-size: 200% 100%;
@@ -141,7 +141,7 @@ Stuff:#fff
         		}
 				
        			h2 {
-            			color: white;
+            			color: black;
         		}
 
 	
