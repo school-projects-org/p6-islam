@@ -55,7 +55,7 @@ Stuff:#fff
 
         		/* Add a red background color to navbar links on hover */
         		.navbar a:hover, .dropdown:hover .dropbtn {
-          			background-color: #54b3d6;
+          			background-color: #242424;
 			}
 
         		/* Dropdown content (hidden by default) */
@@ -107,7 +107,7 @@ Stuff:#fff
 
         		a:before{
           			content: '';
-          			background: #54b3d6;
+          			background: #242424;
           			display: block;
           			position: absolute;
          			bottom: -3px;
@@ -226,7 +226,7 @@ Stuff:#fff
             			border-radius: 10px
         		}
 			.article{
-				background-image: linear-gradient(to right,#54b3d6,#54b3d6 50%,#000 50%);
+				background-image: linear-gradient(to right,#242424,#242424 50%,#000 50%);
 				opacity: 0.87;
 				font-size: 15px;
 			}
@@ -249,7 +249,7 @@ Stuff:#fff
 
         /* Add a red background color to navbar links on hover */
         .navbar a:hover, .dropdown:hover .dropbtn {
-          background-color: #54b3d6;
+          background-color: #242424;
         }
 
         /* Dropdown content (hidden by default) */
@@ -285,8 +285,8 @@ Stuff:#fff
         a {
           background-image: linear-gradient(
             to right,
-            #54b3d6,
-            #54b3d6 50%,
+            #242424,
+            #242424 50%,
             #121212 50%
           );
           background-size: 200% 100%;
@@ -301,7 +301,7 @@ Stuff:#fff
 
         a:before{
           content: '';
-          background: #54b3d6;
+          background: #242424;
           display: block;
           position: absolute;
           bottom: -3px;
