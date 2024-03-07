@@ -144,102 +144,102 @@ Stuff:#fff
         color: black;
     }
     * {box-sizing:border-box}
-        	img{
-            	border-radius: 10px
-        	}
-			.article{
-				background-image: linear-gradient(to right,#242424,#242424 50%,#000 50%);
-				opacity: 0.87;
-				font-size: 15px;
-			}
-			.dropdown {
-          float: left;
-          overflow: hidden;
+        img{
+            border-radius: 10px
+        }
+		.article{
+			background-image: linear-gradient(to right,#242424,#242424 50%,#000 50%);
+			opacity: 0.87;
+			font-size: 15px;
+		}
+		.dropdown {
+        	float: left;
+        	overflow: hidden;
         }
 
 /*       /* Dropdown button */
         .dropdown .dropbtn {
-          font-size: 16px;
-          border: none;
-          outline: none;
-          color: white;
-          padding: 10px 20px; /*og 14px by 16px*/
-          background-color: inherit;
-          font-family: inherit; /* Important for vertical align on mobile phones */
-           margin: 0; /* Important for vertical align on mobile phones */ 
+          	font-size: 16px;
+          	border: none;
+          	outline: none;
+          	color: white;
+        	padding: 10px 20px; /*og 14px by 16px*/
+          	background-color: inherit;
+          	font-family: inherit; /* Important for vertical align on mobile phones */
+        	margin: 0; /* Important for vertical align on mobile phones */ 
         }
 
         /* Add a red background color to navbar links on hover */
         .navbar a:hover, .dropdown:hover .dropbtn {
-          background-color: #242424;
+          	background-color: #242424;
         }
 
         /* Dropdown content (hidden by default) */
         .dropdown-content {
-          display: none;
-          position: absolute;
-          background-color: #f9f9f9;
-          min-width: 160px;
-          box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-          z-index: 1;
+          	display: none;
+          	position: absolute;
+          	background-color: #f9f9f9;
+         	min-width: 160px;
+          	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+          	z-index: 1;
         }
 
         /* Links inside the dropdown */
         .dropdown-content a {
-          float: none;
-          color: black;
-          padding: 12px 16px;
-          text-decoration: none;
-          display: block;
-          text-align: left;
+          	float: none;
+          	color: black;
+          	padding: 12px 16px;
+          	text-decoration: none;
+          	display: block;
+          	text-align: left;
         }
 
         /* Add a grey background color to dropdown links on hover */
         .dropdown-content a:hover {
-          background-color: #ddd;
+          	background-color: #ddd;
         }
 
         /* Show the dropdown menu on hover */
         .dropdown:hover .dropdown-content {
-          display: block;
+          	display: block;
         }
 
         a {
-          background-image: linear-gradient(
-            to right,
-            #242424,
-            #242424 50%,
-            #121212 50%
-          );
-          background-size: 200% 100%;
-          background-position: -100%;
-          display: inline-block;
-          padding: 5px 0;
-          position: relative;
-          -webkit-background-clip: text;
-          -webkit-text-fill-color: transparent;
-          transition: all 0.3s ease-in-out;
+        	background-image: linear-gradient(
+            	to right,
+            	#242424,
+        	    #242424 50%,
+        	    #121212 50%
+          	);
+          	background-size: 200% 100%;
+          	background-position: -100%;
+          	display: inline-block;
+          	padding: 5px 0;
+          	position: relative;
+          	-webkit-background-clip: text;
+          	-webkit-text-fill-color: transparent;
+          	transition: all 0.3s ease-in-out;
         }
 
         a:before{
-          content: '';
-          background: #242424;
-          display: block;
-          position: absolute;
-          bottom: -3px;
-          left: 0;
-          width: 0;
-          height: 3px;
-          transition: all 0.3s ease-in-out;
+          	content: '';
+          	background: #242424;
+          	display: block;
+          	position: absolute;
+          	bottom: -3px;
+          	left: 0;
+          	width: 0;
+          	height: 3px;
+          	transition: all 0.3s ease-in-out;
         }
 
 
         a:hover {
-         background-position: 0;
+         	background-position: 0;
         }
 
         a:hover::before{
-          width: 100%;
+          	width: 100%;
         }
         * {box-sizing:border-box}
 
@@ -247,19 +247,15 @@ Stuff:#fff
         body {
             background-color: #fff;
             color: #121212;
-	    /* color was fff, trying to find regular font color change lol */
+	    	/* color was fff, trying to find regular font color change lol */
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-/*             margin: 5; */
-		margin: 10;
-/* 	    margin: 0; */
+			/*             margin: 5; */
+			margin: 10;
+			/* 	    margin: 0; */
             padding: 5;
-/* 	padding: 0; */
-/*             text-align: center; */
+			/* 	padding: 0; */
+			/*             text-align: center; */
         }
-/* 	section a {
-	margin: 0;
-	background-color: #dfdbc7;
-	} */
 
         header {
             padding: 20px;
