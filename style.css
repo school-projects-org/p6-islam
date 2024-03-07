@@ -327,7 +327,8 @@ Stuff:#fff
             color: #121212;
 	    /* color was fff, trying to find regular font color change lol */
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            margin: 5;
+/*             margin: 5; */
+		margin: 10;
 /* 	    margin: 0; */
             padding: 0;
 /*             text-align: center; */
