@@ -1,5 +1,5 @@
 /* 
-
+LINE 362 SECTION PADDING
 Color pallet:
 Main:#dfdbc7
 Details:#a6645f
@@ -358,7 +358,8 @@ Stuff:#fff
         }
 
         section {
-            padding: 50px;
+/*             padding: 50px; */
+/* 	    experimental padding change, be careful */
             background-color: #dfdbc7;
         }
 
