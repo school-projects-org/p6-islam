@@ -1,5 +1,5 @@
 # p6-islam
-bear of the polar variety.png
+i love how github considers this more css than html cuz ig it is
 
 CSS has "variables" the hell- i just want colors and margins
 
