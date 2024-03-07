@@ -327,11 +327,15 @@ Stuff:#fff
             color: #121212;
 	    /* color was fff, trying to find regular font color change lol */
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-/*             margin: 5; */
-	    margin: 0;
+            margin: 5;
+/* 	    margin: 0; */
             padding: 0;
 /*             text-align: center; */
         }
+	section a {
+	margin: 0;
+	background-color: #dfdbc7;
+	}
 
         header {
             padding: 20px;
